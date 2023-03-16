@@ -22,13 +22,11 @@ const About = () => {
           <div className="about__cards">
             <article className="about__card">
               <FaLaptopCode className="about__icon" />
-              <div className="card-text">
-                <h5>
-                  B.Sc At <br />
-                  Computer Science
-                </h5>
-                <small>HIT</small>
-              </div>
+              <h5>
+                B.Sc At <br />
+                Computer Science
+              </h5>
+              <small>HIT</small>
             </article>
 
             <article className="about__card">
@@ -48,8 +46,8 @@ const About = () => {
             My name is Lidan Danino, I live in Israel. I am 27 years old. I'm
             web developer, Graduated in computer science(B.Sc) at the Holon
             Institute of Technology.
-            <br />I am a programmer who is passionate about coding and creating
-            new and innovative solutions through software development.
+            <br /> currently leading the development of ‘Swappi’ (startup) -
+            Smart and fully automated marketplace for tickets using AI features.
             <br /> In addition i love to read books , video games and play
             tennis with friends.
           </p>
