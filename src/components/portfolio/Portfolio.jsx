@@ -11,7 +11,8 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Smart and automatic tickets trading website (Prototype of startup)",
+    title:
+      "Swappi - smart and automatic tickets trading website (Prototype as part of POC)",
     github: "https://github.com/Lidan-Danino/AnyTicket-client",
     demo: "https://anyticket.netlify.app/",
     text: "Live Demo",
